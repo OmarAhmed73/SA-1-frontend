@@ -543,8 +543,14 @@ section:nth-child(even){
 }
 
 
-#policy{
-    
+#special,
+#both,
+#other{
+    margin-left: 12px;
+}
+
+.labelOfRadio{
+    font-size: 14px;
 }
 
 .footer .box-container{
