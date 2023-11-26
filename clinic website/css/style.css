@@ -542,6 +542,11 @@ section:nth-child(even){
     padding:1rem 0;
 }
 
+
+#policy{
+    
+}
+
 .footer .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
@@ -585,12 +590,16 @@ section:nth-child(even){
 }
 
 
+.star{
+color: red;
+font-size: 20px;
+margin-top: 0px;
+}
 
-
-
-
-
-
+.co-star{
+    color: black;
+    font-size: 12px;
+}
 
 /* media queries  */
 @media (max-width:991px){
